@@ -1823,8 +1823,8 @@ paths:
                   type: string
   '/api/projects/{projectName}/agents/{agentName}/completions':
     post:
-      summary: Quesries an agent.
-      description: Quesries an agent.
+      summary: Queries an agent.
+      description: Queries an agent.
       parameters:
         - name: projectName
           in: path
